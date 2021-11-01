@@ -1,6 +1,6 @@
 # Classification de variant génétique
 
-Le plus grand d ́efi qui agite beaucoup les généticiens est celui de l’interprétation de ces différents types de variants génétiques. Actuellement, seulement un petit nombre de ces variants ont  été liés à des maladies car la plupart possédent des effets inconnus. Ces variants sont généralement manuellement classés par des laboratoires cliniques selon trois grandes catégories :
+Le plus grand défi qui agite beaucoup les généticiens est celui de l’interprétation de ces différents types de variants génétiques. Actuellement, seulement un petit nombre de ces variants ont  été liés à des maladies car la plupart possédent des effets inconnus. Ces variants sont généralement manuellement classés par des laboratoires cliniques selon trois grandes catégories :
 
   — Variants pathogènes.
   — Variants d’importance inconnu (Variant of Unkown Significance).
