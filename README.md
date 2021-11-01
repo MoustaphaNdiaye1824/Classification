@@ -6,7 +6,7 @@ Le plus grand défi qui agite beaucoup les généticiens est celui de l’interp
   — Variants d’importance inconnu (Variant of Unkown Significance).
   — Variants Bénins.
 
-Les variants génétiques dont les classifications sont conflictuelles (d’un laboratoire à un autre) peuvent être source de confusion lorsque les chercheurs tentent d’interpréter si de telles variants poss`edent ou non de réels impacts sur l’apparition et l’évolution d’une certaine maladie. Les classifications en conflit surviennent lorsque deux ou trois des catégories cit ́ees ci-dessus sont présentes simultanément pour un même variant.
+Les variants génétiques dont les classifications sont conflictuelles (d’un laboratoire à un autre) peuvent être source de confusion lorsque les chercheurs tentent d’interpréter si de telles variants possédent ou non de réels impacts sur l’apparition et l’évolution d’une certaine maladie. Les classifications en conflit surviennent lorsque deux ou trois des catégories citées ci-dessus sont présentes simultanément pour un même variant.
 
 
 #### Moustapha Ndiaye, Habib NIANDOU AMADOU & Raouf BOUKENNA
